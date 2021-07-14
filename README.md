@@ -72,22 +72,14 @@
    
    5.- Las redes de resistores tienen las resistencias totales que se muestran a continuacion. Dibuje un circuito que corresponda a cada expresion. 
 
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%205.jpg)
    
    Resolucion.-
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%205%20-%201.jpg)
    
    ** 7 - 2 ANALISIS DE CIRCUITOS EN SERIE - PARALELO
    
-   7.- Determine la resistencia total para cada red de la figura 7 - 50  
-   
-   ![]( )
-   
-   Resolucion.-
-   
-   ![]( )
-
    9.- Calcule la resistencia Rab y Rcd en el circuito de la figura 7 - 52
 
    ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2052.jpg)
@@ -108,17 +100,6 @@
    
    ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%2011.jpg)
    
-   13.- Vea el circuito de la figura 7 - 56. 
-
-        a. Encuenctre las corrientes I1, I2, I3, I4, I5 e I6.
-        b. Encuentre los voltajes Vab y Vcd.
-        c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
-        
-   ![]( )
-   
-   Resolucion.-
-   
-   ![]( )
    
    15.- Vea los circuitos de la figura 7 - 58:
 
@@ -133,22 +114,6 @@
    ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%2015.jpg)
    
    ** 7 - 3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
-   
-   17.- Encuenctre todas las corrientes y caidas de voltaje en el circuito de la figura 7 - 60. Verifique que la potencia suministrada por la fuente de voltaje es igual a la potencia disispada por los resistores y por el diodo zener.
-
-   ![]( )
-   
-   Resolucion.-
-   
-   ![]( )
-   
-   19.- En el circuito de la figura 7 - 62 determine el intervalo de R (valores maximo y minimo) que aseguraran que el voltaje de salida sea de Vl = 5.6 V. mientras que no sea exceda la especificacion de maxima potencia del diodo zener.
-   
-   ![]( )
-   
-   Resolucion.-
-   
-   ![]( )
    
    21.- En el circuito de la figura 7 - 64 determine Vb, Ic y Vce.
 
@@ -552,7 +517,7 @@ Encontramos la intensidad de <img src="https://latex.codecogs.com/svg.latex?\lar
 
 # 4. VIDEO
 
-* link de youtube
+* https://youtu.be/rM7GSw-XZK0
 
 # 5. CONCLUSIONES
 
