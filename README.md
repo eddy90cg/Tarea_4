@@ -47,16 +47,20 @@
 ![727](https://user-images.githubusercontent.com/84453557/125562206-74b15a77-8b50-466d-b830-eb4ba4aede38.png)
 
 
+
 29. Si el potenciómetro de la figura se ajusta para que R2=200 Ω, determine los voltajes Vab y Vbc.
 ![729](https://user-images.githubusercontent.com/84453557/125562231-f790ae16-ff09-4cc0-936f-d622cdd2c7c1.png)
+
 
 
 31. Vea el circuito de la figura. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo. Calcule R2 cuando Vsalida=20 V.
 ![731](https://user-images.githubusercontent.com/84453557/125562239-1d9d938d-fda5-4d30-9714-c35b55470c5b.png)
 
 
+
 33. En el circuito de la figura calcule el voltaje de salida cuando RL=0, 250 y 500 Ω.
 ![733](https://user-images.githubusercontent.com/84453557/125562248-08db8e23-d491-4285-9868-b2868ff80887.png)
+
 
 
 35. Un voltímetro con una sensibilidad de S=20kΩ/V se usa en la escala de 10V (Con una resistencia total interna de 200kΩ) para medir el voltaje en el resistor de 750kΩ de la figura. El medidor indica un voltaje de 5.00 V.
