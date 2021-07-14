@@ -165,7 +165,7 @@
    
    Resolucion.-
    
-   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2065.jpg)
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2067.jpg)
     
 
 27 . Vea el circuito de la figura, determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje Vl? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
