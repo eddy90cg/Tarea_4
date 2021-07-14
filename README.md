@@ -91,6 +91,7 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 3. Vea el circuito de la figura:
 a. Encuentre la corriente I3.
 b. Determine los voltajes Vs y V1
+
 ![83](https://user-images.githubusercontent.com/84453557/125562275-90d1ef3a-6755-4c1a-b455-2cf374c3c5d8.png)
 
 
