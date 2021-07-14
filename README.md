@@ -41,7 +41,7 @@
 
   1.- Para las redes de la figura 7-46, determine cuales resistores y ramas estan en serie  cuales en paralelo. Escriba una expresion para la resistencia total, Rt.
 
-  ![]( )
+  ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2046.jpg)
   
   Resolucion.-
   
@@ -60,15 +60,15 @@
   
   TODOS LOS DMEAS EN SERIE 
   
-  ![]( )
+  ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%201.jpg)
   
    3.- Escriba una expresion Rt1 y Rt2 para las redes de la figura 7 - 48
 
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2048.jpg)
    
    Resolucion.-
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%203.jpg)
    
    5.- Las redes de resistores tienen las resistencias totales que se muestran a continuacion. Dibuje un circuito que corresponda a cada expresion. 
 
@@ -90,11 +90,11 @@
 
    9.- Calcule la resistencia Rab y Rcd en el circuito de la figura 7 - 52
 
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2052.jpg)
    
    Resolucion.-
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%209.jpg)
    
    11.- Vea el circuito de la figura 7 - 54. Encuentre las siguientes cantidades: 
 
@@ -102,11 +102,11 @@
         b. It, I1, I2, I3, I4.
         c. Vab, Vbc.
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2054.jpg)
    
    Resolucion.-
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%2011.jpg)
    
    13.- Vea el circuito de la figura 7 - 56. 
 
@@ -126,11 +126,11 @@
         b. Encuenctre el voltaje Vab.
         c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
         
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2058.jpg)
    
    Resolucion.-
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%2015.jpg)
    
    ** 7 - 3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
    
@@ -152,23 +152,12 @@
    
    21.- En el circuito de la figura 7 - 64 determine Vb, Ic y Vce.
 
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2064.jpg)
    
    Resolucion.-
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%2021.jpg)
    
-   23.- Considere el circuito de la figura 7 - 65 y los valores indicados: 
-        
-        a. Determine Id.
-        b. Calcule el valor requerido de Rs.
-        c. Encuentre Vds.
-   
-   ![]( )
-   
-   Resolucion.-
-   
-   ![]( )
    
    25.- Calcule Ic y Vce para el circuito de la figura 7 - 67.
 
@@ -176,7 +165,7 @@
    
    Resolucion.-
    
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/FIG%207%20-%2065.jpg)
     
 
 27 . Vea el circuito de la figura, determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje Vl? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
