@@ -21,6 +21,8 @@
 
 * Aplicar las las equivalencias correctas de resitencias voltajes e intensidades en serie - paralelo correctamente
 
+*Reconocer y usar los métodos de análisis existentes para resolver un circuito eléctrico.
+
 
 # 2. MARCO TEÓRICO
 
@@ -527,6 +529,7 @@ Encontramos la intensidad de <img src="https://latex.codecogs.com/svg.latex?\lar
 de circuitos y que metodo lo simplifica mas en su resolvimiento provocando asi una mejor tecnica de profesionalismo al momento
 de resolver problemas que se nos presente en la vida profesional.
 
+* Se pudo reconocer cual es el método de análisis de circuitos mas factible a la hora de inspeccionar un circuito eléctrico para que su resolución sea realizada de la manera mas sencilla posible.
  
 # 6. BIBLIOGRAFÍA
 
