@@ -25,17 +25,19 @@
 
 # 2. MARCO TEÓRICO
 
-## Análisis básico de cd.-
+## Circuitos en Serie y Paralelo
 
 ![Mentefacto 7](https://user-images.githubusercontent.com/84453557/125577106-817f10a3-d83b-414a-87aa-8bb806980175.png)
+
+## Métodos de Análisis
 
 ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Mentefacto_Cap8.jpeg)
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-## Análisis básico de cd.-
-
 # CAP 7.
+
+## Circuitos en Serie y Paralelo
 
 27 . Vea el circuito de la figura, determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje Vl? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
 ![727](https://user-images.githubusercontent.com/84453557/125562206-74b15a77-8b50-466d-b830-eb4ba4aede38.png)
@@ -77,6 +79,8 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 
 
 # CAP 8.
+
+## Métodos de Análisis
 
 1 . Encuentre el voltaje Vs para el circuito de la figura 
 ![81](https://user-images.githubusercontent.com/84453557/125562269-1473f73e-cbb4-4546-bc0e-e4bca7248900.png)
