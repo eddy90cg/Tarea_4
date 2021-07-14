@@ -95,7 +95,6 @@ b. Determine los voltajes Vs y V1
 
 ![83](https://user-images.githubusercontent.com/84453557/125562275-90d1ef3a-6755-4c1a-b455-2cf374c3c5d8.png)
 
-
 5 . Para el circuito de la figura encuentre las corrientes I1 e I2
 ![85](https://user-images.githubusercontent.com/84453557/125562279-0fd01c24-ff2a-4af0-97af-b0bb43e26eca.png)
 
@@ -104,6 +103,98 @@ b. Determine los voltajes Vs y V1
 ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%207.png)
 
 ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer7.png)
+
+9. Convierte a cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%209.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%209.png)
+
+11. Vea el circuito de la figura 8-72:
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2011.png)
+
+a.Encuentra la corriente a través del resistor de carga con la regla del divisor de corriente.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2011%20a.png)
+
+b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2011%20b.png)
+
+13. Vea el circuito de la figura 8-74:
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2013.png)
+
+a. Cambiar la fuente de corriente y el resistor de 330 Ω en su fuente de voltaje equivalente.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2013a.png)
+
+b.Encuentra la corriente I a través de R_L.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2013b.png)
+
+c. Determine el voltaje V_ab:
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2013c.png)
+
+15. Encuentra el voltaje V_2 y la corriente I_1 Para el circuito de la figura 8 – 76.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2015.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2015.png)
+
+17. Para el circuito de la figura 8 – 78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calcula el voltaje V_ab y la corriente I_3.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2017.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2017.png)
+
+19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8 – 79 y encuentra las corrientes derrama mediante determinantes.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2019.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2019.png)
+
+21. Escribe las ecuaciones de corriente de rama para el circuito de la figura 8- 81 y encuentre la corriente I_2.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2021.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2021.png)
+
+23. Vea el circuito de la figura 8 – 83:
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2023.png)
+
+a. Escriba las ecuaciones de corriente de rama.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2023.png)
+
+b. Encuentre la corriente I_2.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2023%20b.png)
+
+c. Determine el voltaje V_ab
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2023%20c.png)
+
+25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8 – 79 y encuentre las corrientes de lazo.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2025.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2025.png)
+
+27. Utiliza el análisis de malla para encontrar la corriente I_2en el circuito de la figura 8 - 81.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2027.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2027.png)
+
+29. Utilice el análisis de Málaga para encontrar las corrientes de lazo en el circuito de la figura 8 – 84. use sus resultados para determinar I y V_ab.
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%2029.png)
+
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer%2029.png)
 
 # 4. VIDEO
 
