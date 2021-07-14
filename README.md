@@ -27,16 +27,9 @@
 
 ## Análisis básico de cd.-
 
-
-
-
 ![Mentefacto 7](https://user-images.githubusercontent.com/84453557/125577106-817f10a3-d83b-414a-87aa-8bb806980175.png)
 
-
-* mentefacto cap 8
-
-
-
+![https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Mentefacto_Cap8.jpeg]
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
