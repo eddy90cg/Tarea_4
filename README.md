@@ -6,33 +6,177 @@
 
 #### RESUMEN
 
-*
-*
+* Resolucion y dominio de calculo e identifcacion de componentes electricos en serie y paralelo.
+
+
+* Analisis de mallas en circuitos serie y paralelo con los calculos correspondientes segun las mallas o lazos presentados 
 
   #### OBJETIVO GENERAL
 
-*
-*
+* Definir lo que es un circuito en serie y en paralelo para un mejor conocimiento al momento de aplicar en un circuito.
 
 
   #### OBJETIVOS ESPECÍFICOS
 
-*
-*
-*
-*
+
+* Aplicar ley de Ohm para saber cuál es el máximo de corriente que se le puede otorgar al circuito.
+
+* Comprobar como influyen las leyes de Kirchhoff  tanto circuitos en serie como en paralelo.
 
 
 # 2. MARCO TEÓRICO
 
 ## Análisis básico de cd.-
 
+* CAP 7 : CIRCUITOS SERIES - PARALELO.
+
+  ** 7 - 1 LA RED EN SERIE - PARALELO
 
 
+  1.- Para las redes de la figura 7-46, determine cuales resistores y ramas estan en serie  cuales en paralelo. Escriba una expresion para la resistencia total, Rt.
 
-* Mentefactocap 7
+  ![]( )
+  
+  Resolucion.-
+  
+  a)
+  
+  R1 ll R5      ------
+                        => SERIE ENTRE SI 
+  R2 + R3 ll R4 ------     
 
-* mentefacto cap 8
+  
+  b)
+  
+  R1 ll R2 ---
+              ====> SERIE ENTRE SI
+  R3 ll R4 ---
+  
+  TODOS LOS DMEAS EN SERIE 
+  
+  ![]( )
+  
+   3.- Escriba una expresion Rt1 y Rt2 para las redes de la figura 7 - 48
+
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   5.- Las redes de resistores tienen las resistencias totales que se muestran a continuacion. Dibuje un circuito que corresponda a cada expresion. 
+
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   ** 7 - 2 ANALISIS DE CIRCUITOS EN SERIE - PARALELO
+   
+   7.- Determine la resistencia total para cada red de la figura 7 - 50  
+   
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+
+   9.- Calcule la resistencia Rab y Rcd en el circuito de la figura 7 - 52
+
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   11.- Vea el circuito de la figura 7 - 54. Encuentre las siguientes cantidades: 
+
+        a. Rt.
+        b. It, I1, I2, I3, I4.
+        c. Vab, Vbc.
+   
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   13.- Vea el circuito de la figura 7 - 56. 
+
+        a. Encuenctre las corrientes I1, I2, I3, I4, I5 e I6.
+        b. Encuentre los voltajes Vab y Vcd.
+        c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+        
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   15.- Vea los circuitos de la figura 7 - 58:
+
+        a. Encuenctre las corrientes indicadas.
+        b. Encuenctre el voltaje Vab.
+        c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+        
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   ** 7 - 3 APLICACIONES DE LOS CIRCUITOS EN SERIE - PARALELO
+   
+   17.- Encuenctre todas las corrientes y caidas de voltaje en el circuito de la figura 7 - 60. Verifique que la potencia suministrada por la fuente de voltaje es igual a la potencia disispada por los resistores y por el diodo zener.
+
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   19.- En el circuito de la figura 7 - 62 determine el intervalo de R (valores maximo y minimo) que aseguraran que el voltaje de salida sea de Vl = 5.6 V. mientras que no sea exceda la especificacion de maxima potencia del diodo zener.
+   
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   21.- En el circuito de la figura 7 - 64 determine Vb, Ic y Vce.
+
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   23.- Considere el circuito de la figura 7 - 65 y los valores indicados: 
+        
+        a. Determine Id.
+        b. Calcule el valor requerido de Rs.
+        c. Encuentre Vds.
+   
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+   
+   25.- Calcule Ic y Vce para el circuito de la figura 7 - 67.
+
+   ![]( )
+   
+   Resolucion.-
+   
+   ![]( )
+    
+  
+
+* CAP 8 : METODOS DE ANALISIS.
+
+
 
 
 
@@ -41,62 +185,11 @@
 
 ## Análisis básico de cd.-
 
-# CAP 7.
-
-27 . Vea el circuito de la figura, determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje Vl? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
-![727](https://user-images.githubusercontent.com/84453557/125562206-74b15a77-8b50-466d-b830-eb4ba4aede38.png)
+# CAP 7 : CIRCUITOS SERIES - PARALELO
 
 
 
-29 . Si el potenciómetro de la figura se ajusta para que R2=200 Ω, determine los voltajes Vab y Vbc.
-![729](https://user-images.githubusercontent.com/84453557/125562231-f790ae16-ff09-4cc0-936f-d622cdd2c7c1.png)
-
-
-
-31 . Vea el circuito de la figura. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo. Calcule R2 cuando Vsalida=20 V.
-![731](https://user-images.githubusercontent.com/84453557/125562239-1d9d938d-fda5-4d30-9714-c35b55470c5b.png)
-
-
-
-33 . En el circuito de la figura calcule el voltaje de salida cuando RL=0, 250 y 500 Ω.
-![733](https://user-images.githubusercontent.com/84453557/125562248-08db8e23-d491-4285-9868-b2868ff80887.png)
-
-
-
-35 . Un voltímetro con una sensibilidad de S=20kΩ/V se usa en la escala de 10V (Con una resistencia total interna de 200kΩ) para medir el voltaje en el resistor de 750kΩ de la figura. El medidor indica un voltaje de 5.00 V.
-a. Determine el valor de la fuente de voltaje E.
-b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito?
-c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
-d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 kΩ. ¿Cuál será la lectura?
-
-![735](https://user-images.githubusercontent.com/84453557/125562253-00fadc9b-3496-4d9c-b372-40f9fff925a7.png)
-
-
-37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura.
-a. Explique como conectar de manera correcta el amperímetro para medir la corriente I1.
-b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.
-c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
-
-![737](https://user-images.githubusercontent.com/84453557/125562261-50bc4fb9-6ae8-4f9c-a657-2e3cbe01c629.png)
-
-
-
-
-# CAP 8.
-
-1 . Encuentre el voltaje Vs para el circuito de la figura 
-![81](https://user-images.githubusercontent.com/84453557/125562269-1473f73e-cbb4-4546-bc0e-e4bca7248900.png)
-
-
-3 . Vea el circuito de la figura:
-a. Encuentre la corriente I3.
-b. Determine los voltajes Vs y V1
-
-![83](https://user-images.githubusercontent.com/84453557/125562275-90d1ef3a-6755-4c1a-b455-2cf374c3c5d8.png)
-
-
-5 . Para el circuito de la figura encuentre las corrientes I1 e I2
-![85](https://user-images.githubusercontent.com/84453557/125562279-0fd01c24-ff2a-4af0-97af-b0bb43e26eca.png)
+# CAP 8 : METODOS DE ANALISIS
 
 
 
@@ -106,15 +199,15 @@ b. Determine los voltajes Vs y V1
 
 # 5. CONCLUSIONES
 
- * 
- *
- *
+* Se obtuvo un aprendizaje significativo en la materia debido a que conocimos de una mejor como poder resolver distintos tipos 
+de circuitos y que metodo lo simplifica mas en su resolvimiento provocando asi una mejor tecnica de profesionalismo al momento
+de resolver problemas que se nos presente en la vida profesional.
  
 # 6. BIBLIOGRAFÍA
 
-*
-*
-*
+* Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. 
+
+* Recuperado de: https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
 
 
 RUBRICA
