@@ -99,7 +99,9 @@ b. Determine los voltajes Vs y V1
 5 . Para el circuito de la figura encuentre las corrientes I1 e I2
 ![85](https://user-images.githubusercontent.com/84453557/125562279-0fd01c24-ff2a-4af0-97af-b0bb43e26eca.png)
 
-
+7. Verifique que la potencia suministrada por las fuentes desde igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8 – 68.
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/grafico%20ejer%207.png)
+![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/Teor%C3%ADa/ejer7.png)
 
 # 4. VIDEO
 
