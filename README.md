@@ -161,7 +161,7 @@
    
    25.- Calcule Ic y Vce para el circuito de la figura 7 - 67.
 
-   ![]( )
+   ![](https://github.com/eddy90cg/Tarea_4/blob/main/Anexos-img/img%20ejr%201%20-%2025/EJER%2025.jpg)
    
    Resolucion.-
    
